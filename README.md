@@ -39,3 +39,4 @@ linking stylesheets.
 
 Congratulations! You have successfully practiced how to link your CSS to your
 HTML files.
+# waa07-css-links
